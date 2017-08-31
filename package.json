@@ -1,0 +1,29 @@
+{
+  "name": "memie-generator",
+  "version": "1.0.0",
+  "description": "Very very dank memes",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard & eslint **"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drtaiki/memie-generator.git"
+  },
+  "keywords": [
+    "dank-memes",
+    "memes",
+    "dank",
+    "generator",
+    "random"
+  ],
+  "author": "Dr. Taiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drtaiki/memie-generator/issues"
+  },
+  "homepage": "https://github.com/drtaiki/memie-generator#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
