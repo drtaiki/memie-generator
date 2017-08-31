@@ -19,6 +19,7 @@ exports.randomImages = randomArray(images);
 
  /**
   * All memes in images.
+  * Don't put () at end as its a function.
  */
 exports.allImages = images;
 
@@ -29,5 +30,6 @@ exports.randomWords = randomArray(words);
 
  /**
   * All memes in words.
+  * Don't put () at end as its a function.
  */
 exports.allWords = words;

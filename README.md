@@ -14,10 +14,10 @@ A module which posts very dank memes. What else?
 const memes = require('memie-generator');
 
 memes.randomImages();
-memes.allImages();
+memes.allImages;
 
 memes.randomWords();
-memes.allWords();
+memes.allWords;
 ```
 
 ## Memes' Sources
