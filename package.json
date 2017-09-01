@@ -1,6 +1,6 @@
 {
   "name": "memie-generator",
-  "version": "1.5.5",
+  "version": "2.0.0",
   "description": "Very very dank memes",
   "main": "index.js",
   "scripts": {
